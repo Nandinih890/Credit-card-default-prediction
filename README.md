@@ -1,0 +1,2 @@
+The goal of this project is to use machine learning techniques to predict whether a credit card customer will miss a payment within the next month. Financial instituitions can lower financial risk and make better lending decisions by forecasting credit card defaults.
+Using the Credit Card Default dataset, the project classifies whether or not a customer will default using machine learning models, class imbalance handling, and data preprocessing.
